@@ -1,5 +1,5 @@
 # The Clockwise/Spiral Rule
-By Copyright © 1993,1994 David Anderson
+By David Anderson
 
 There is a technique known as the "Clockwise/Spiral Rule" which enables any C
 programmer to parse in their head any C declaration!
